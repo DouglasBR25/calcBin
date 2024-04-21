@@ -1,1 +1,1 @@
-# calcBin
+# Conversor de decimal e binário.
